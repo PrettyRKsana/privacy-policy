@@ -1,8 +1,8 @@
-# Privacy Policy for Your App Name
+# Privacy Policy for n8n
 
 **Effective Date:** June 20, 2025
 
-**Your App Name** ("we", "our", or "us") operates as an open-source project hosted on GitHub at [https://github.com/YourGitHubUsername/privacy-policy](https://github.com/YourGitHubUsername/privacy-policy). This Privacy Policy explains how we collect, use, and handle your data.
+**n8n** ("we", "our", or "us") operates as an open-source project hosted on GitHub at [https://github.com/PrettyRKsana/privacy-policy](https://github.com/PrettyRKsana/privacy-policy). This Privacy Policy explains how we collect, use, and handle your data.
 
 ---
 
@@ -71,5 +71,5 @@ We may update this policy occasionally. Updates will appear on this page.
 
 ## 9. Contact
 
-📧 Email: your@email.com  
-🌐 GitHub: [https://github.com/YourGitHubUsername/privacy-policy](https://github.com/YourGitHubUsername/privacy-policy)
+📧 Email: letsplaysomegamesyea@gmail.com
+🌐 GitHub: [https://github.com/PrettyRKsana/privacy-policy](https://github.com/PrettyRKsana/privacy-policy)
